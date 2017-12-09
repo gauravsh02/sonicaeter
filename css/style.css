@@ -14,6 +14,7 @@
     -o-transform: skew(0deg, -15deg);
     transform: skew(0deg, -15deg);
 }
-.asd{
-  position: fixed;
+
+.asd {
+    position: fixed;
 }
