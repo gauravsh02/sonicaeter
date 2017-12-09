@@ -14,7 +14,9 @@
     -o-transform: skew(0deg, -15deg);
     transform: skew(0deg, -15deg);
 }
-
-.asd {
-    position: fixed;
+.footer{
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background: linear-gradient(to right, #02CCBA, #AA7ECD);
 }
