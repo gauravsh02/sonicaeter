@@ -32,3 +32,6 @@ body {
     height: auto;
     background: linear-gradient(to right, #02CCBA, #AA7ECD);
 }
+.bt-shadow{
+    box-shadow: rgb(187, 173, 173) 0px 0px 8px 2px;
+}
