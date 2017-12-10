@@ -1,6 +1,6 @@
 $(document).ready(function(){
       $(window).scroll(function() {
-        if ($(document).scrollTop() > 100) {
+        if ($(document).scrollTop() > 50) {
           $(".navbar").css("background-color", "#fff");
           $(".navbar").css("box-shadow", "rgb(165, 169, 173) 0px 0px 20px 2px");
           $(".navbar-brand").css("color", "#000");
